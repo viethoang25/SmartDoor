@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">SmartHome</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="number1">1</string>
+    <string name="number2">2</string>
+    <string name="number3">3</string>
+    <string name="number4">4</string>
+    <string name="number5">5</string>
+    <string name="number6">6</string>
+    <string name="number7">7</string>
+    <string name="number8">8</string>
+    <string name="number9">9</string>
+    <string name="number0">0</string>
+
+    <string name="title_activity_user">UserActivity</string>
+
+    <string name="right_pass">Right pass</string>
+    <string name="wrong_pass">Wrong pass</string>
+    <string name="change_pass">Change pass</string>
+    <string name="right_text">Mật khẩu đúng</string>
+    <string name="wrong_text">Sai mật khẩu</string>
+    <string name="change_text">Đổi mật khẩu thành công</string>
+
+    <string name="close_door">Close door</string>
+
+    <string name="led1">Led 1</string>
+    <string name="led2">Led 2</string>
+    <string name="led3">Led 3</string>
+    <string name="led4">Led 4</string>
+    <string name="led5">Led 5</string>
+    <string name="led6">Led 6</string>
+    <string name="led7">Led 7</string>
+    <string name="led8">Led 8</string>
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="change">Change pass</string>
+
+    <string name="action_light">Light</string>
+
+</resources>
